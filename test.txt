@@ -1,0 +1,19 @@
+Hello World Education
+Global AI Hub
+
+Git Commands:
+mkdir projectname (whatever you want to name)
+cd projectname
+git init
+dir
+git projectname
+git status
+git add . (to add all files)
+git commit -m "First Test"
+git status
+git checkout -b "branch1" (mean branch)
+git config --global user.name "Yourname" (to identify you)
+git commit -m "Second Test"
+git checkout master
+git checkout branch1
+git merge branch1 (to merge this files)
